@@ -11,6 +11,7 @@
     <th>Задача</th>
     <th>Ссылка</th>
   </tr>
+ 
   <tr>
     <td>Эффект переобучения</td>
     <td>https://colab.research.google.com/drive/1WQSlWXMFphEBHNr0qQVney0PCtEOL0PN?usp=sharing</td>
