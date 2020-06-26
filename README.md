@@ -24,6 +24,7 @@
     <td>Генетический алгоритм</td>
     <td>https://colab.research.google.com/drive/1t6QHpUjQFcEUBPhNlg3MkgA1qSeLU5wc?usp=sharing</td>
   </tr>
+  
   <td>Pytorch</td>
     <td>https://colab.research.google.com/drive/1BoX5W8qkc4r_JWbW6RiEMlkATIqosYjY?usp=sharing</td>
   </tr>
