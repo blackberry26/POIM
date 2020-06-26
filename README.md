@@ -1,4 +1,10 @@
- # Список задач
+ # Теоретическая часть
+ 
+ Доклад на тему [Fast R-CNN](https://github.com/blackberry26/ROIM/blob/master/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_Fast_R-CNN.pdf)
+ 
+ # Практическая часть
+ 
+ ## Список задач
 
  <table>
   <tr>
