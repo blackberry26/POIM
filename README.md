@@ -28,6 +28,7 @@
     <td>https://colab.research.google.com/drive/1BoX5W8qkc4r_JWbW6RiEMlkATIqosYjY?usp=sharing</td>
   </tr>
   </tr>
+  
   <td>CNN</td>
     <td>https://colab.research.google.com/drive/11TwjCezn6NvPxwr7gduJYYcHaUNP6W0K?usp=sharing</td>
   </tr>
