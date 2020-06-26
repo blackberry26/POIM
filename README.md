@@ -21,7 +21,7 @@
     <td></td>
   </tr>
   </tr>
-  <td></td>
+  <td>CNN</td>
     <td></td>
   </tr>
   </tr>
